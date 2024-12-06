@@ -1,0 +1,469 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "WebApplication1",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/TurAgenstvo": {
+      "get": {
+        "tags": [
+          "TurAgenstvo"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Client"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Client"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Client"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "TurAgenstvo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/TurAgenstvo/{IdClient}": {
+      "get": {
+        "tags": [
+          "TurAgenstvo"
+        ],
+        "parameters": [
+          {
+            "name": "IdClient",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Client"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Client"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Client"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "TurAgenstvo"
+        ],
+        "parameters": [
+          {
+            "name": "IdClient",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/TurAgenstvo/{Id}": {
+      "put": {
+        "tags": [
+          "TurAgenstvo"
+        ],
+        "parameters": [
+          {
+            "name": "Id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Client"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AirTicket": {
+        "type": "object",
+        "properties": {
+          "idAirTicket": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "departureDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "arrivalDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "fromCity": {
+            "type": "string",
+            "nullable": true
+          },
+          "toCity": {
+            "type": "string",
+            "nullable": true
+          },
+          "classOfService": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "airline": {
+            "type": "string",
+            "nullable": true
+          },
+          "aircraftType": {
+            "type": "string",
+            "nullable": true
+          },
+          "reservations": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Reservation"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Client": {
+        "type": "object",
+        "properties": {
+          "idClient": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "fio": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "phoneNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "history": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "reservations": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Reservation"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "HotelName": {
+        "type": "object",
+        "properties": {
+          "idHotelRoom": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "hotelName1": {
+            "type": "string",
+            "nullable": true
+          },
+          "locationRating": {
+            "type": "string",
+            "nullable": true
+          },
+          "roomType": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "reservations": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Reservation"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Payment": {
+        "type": "object",
+        "properties": {
+          "idPayment": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "paymentMethod": {
+            "type": "string",
+            "nullable": true
+          },
+          "transationStatus": {
+            "type": "string",
+            "nullable": true
+          },
+          "reservations": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Reservation"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Reservation": {
+        "type": "object",
+        "properties": {
+          "idReservation": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "idClient": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "orderComposition": {
+            "type": "string",
+            "nullable": true
+          },
+          "reservationStatus": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "idAirTicket": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "idTour": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "idPayment": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "idHotelRoom": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "idAirTicketNavigation": {
+            "$ref": "#/components/schemas/AirTicket"
+          },
+          "idClientNavigation": {
+            "$ref": "#/components/schemas/Client"
+          },
+          "idHotelRoomNavigation": {
+            "$ref": "#/components/schemas/HotelName"
+          },
+          "idPaymentNavigation": {
+            "$ref": "#/components/schemas/Payment"
+          },
+          "idTourNavigation": {
+            "$ref": "#/components/schemas/Tour"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Tour": {
+        "type": "object",
+        "properties": {
+          "idTour": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "availablePlaces": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tourId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "reservations": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Reservation"
+            },
+            "nullable": true
+          },
+          "tourSchedules": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TourSchedule"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TourSchedule": {
+        "type": "object",
+        "properties": {
+          "idTourSchedule": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "startDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date",
+            "nullable": true
+          },
+          "tourid": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "tour": {
+            "$ref": "#/components/schemas/Tour"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

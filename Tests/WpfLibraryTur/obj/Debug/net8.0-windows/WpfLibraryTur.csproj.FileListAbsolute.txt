@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\WpfLibraryTur\bin\Debug\net8.0-windows\WpfLibraryTur.deps.json
+C:\Users\admin\source\repos\WpfLibraryTur\bin\Debug\net8.0-windows\WpfLibraryTur.runtimeconfig.json
+C:\Users\admin\source\repos\WpfLibraryTur\bin\Debug\net8.0-windows\WpfLibraryTur.dll
+C:\Users\admin\source\repos\WpfLibraryTur\bin\Debug\net8.0-windows\WpfLibraryTur.pdb
+C:\Users\admin\source\repos\WpfLibraryTur\obj\Debug\net8.0-windows\WpfLibraryTur.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WpfLibraryTur\obj\Debug\net8.0-windows\WpfLibraryTur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\WpfLibraryTur\obj\Debug\net8.0-windows\WpfLibraryTur.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\WpfLibraryTur\obj\Debug\net8.0-windows\WpfLibraryTur.AssemblyInfo.cs
+C:\Users\admin\source\repos\WpfLibraryTur\obj\Debug\net8.0-windows\WpfLibraryTur.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WpfLibraryTur\obj\Debug\net8.0-windows\WpfLibraryTur.dll
+C:\Users\admin\source\repos\WpfLibraryTur\obj\Debug\net8.0-windows\refint\WpfLibraryTur.dll
+C:\Users\admin\source\repos\WpfLibraryTur\obj\Debug\net8.0-windows\WpfLibraryTur.pdb
+C:\Users\admin\source\repos\WpfLibraryTur\obj\Debug\net8.0-windows\WpfLibraryTur.genruntimeconfig.cache
+C:\Users\admin\source\repos\WpfLibraryTur\obj\Debug\net8.0-windows\ref\WpfLibraryTur.dll

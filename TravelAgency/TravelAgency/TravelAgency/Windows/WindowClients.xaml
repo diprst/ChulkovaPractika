@@ -1,0 +1,65 @@
+﻿<Window x:Class="TravelAgency.Windows.WindowClients"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TravelAgency.Windows"
+        mc:Ignorable="d"
+                       Title="Clients" Height="528" Width="358" Background="#D0D0E6">
+    <Grid Margin="10">
+        <!-- Основная рамка -->
+        <Border CornerRadius="10" Background="White" BorderThickness="1" BorderBrush="Black" Padding="20" RenderTransformOrigin="0.5,0.5" Margin="0,0,0,-1">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.126"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.331"/>
+                </TransformGroup>
+            </Border.RenderTransform>
+            <StackPanel Margin="10,10,10,-2">
+                <!-- Заголовок -->
+                <TextBlock Text="Регистрация" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+                <!-- Поле ФИО -->
+                <Border BorderThickness="1" BorderBrush="#C0C0C0" CornerRadius="5" Margin="0,5" Width="260">
+                    <StackPanel Margin="10">
+                        <Label Content="ФИО:" FontWeight="Bold"/>
+                        <TextBox Name="txtFio" Width="216" Background="#F5F5F5" 
+                        BorderBrush="#C0C0C0" BorderThickness="1" Padding="5" Text="{Binding Fio}"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Поле Email -->
+                <Border BorderThickness="1" BorderBrush="#C0C0C0" CornerRadius="5" Margin="0,5" Width="260">
+                    <StackPanel Margin="10">
+                        <Label Content="Email:" FontWeight="Bold"/>
+                        <TextBox x:Name="txtemail" Width="217" Background="#F5F5F5" 
+                        BorderBrush="#C0C0C0" BorderThickness="1" Padding="5" Text="{Binding Email}"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Поле Телефон -->
+                <Border BorderThickness="1" BorderBrush="#C0C0C0" CornerRadius="5" Margin="0,5" Width="260">
+                    <StackPanel Margin="10">
+                        <Label Content="Телефон:" FontWeight="Bold"/>
+                        <TextBox x:Name="txtPhone" Width="216" Background="#F5F5F5"
+                        BorderBrush="#C0C0C0" BorderThickness="1" Padding="5" Text="{Binding PhoneNumber}"/>
+                    </StackPanel>
+                </Border>
+                <Border BorderThickness="1" BorderBrush="#C0C0C0" CornerRadius="5" Margin="0,5" Width="260">
+                    <StackPanel Margin="10">
+                        <Label Content="Пароль:" FontWeight="Bold"/>
+                        <TextBox x:Name="txtPassword" Width="216" Background="#F5F5F5"
+         BorderBrush="#C0C0C0" BorderThickness="1" Padding="5" Text="{Binding Password}"/>
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+        </Border>
+        <!-- Кнопка подтверждения -->
+        <Button x:Name="btnSubmit" Content="Подтвердить" Click="btnSubmit_Click" 
+Background="#4CAF50" Foreground="White"
+FontWeight="Bold" Height="40" Width="140"
+Margin="99,431,99,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

@@ -1,0 +1,308 @@
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\TravelAgency.exe
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\TravelAgency.deps.json
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\TravelAgency.runtimeconfig.json
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\TravelAgency.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\TravelAgency.pdb
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.csproj.AssemblyReference.cache
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency_MarkupCompile.cache
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency_MarkupCompile.lref
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.g.resources
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.AssemblyInfoInputs.cache
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.AssemblyInfo.cs
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAg.A03B1C71.Up2Date
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\refint\TravelAgency.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.pdb
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.genruntimeconfig.cache
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\ref\TravelAgency.dll
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowAirTicket.g.cs
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowClients.g.cs
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowHotelName.g.cs
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowPayments.g.cs
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowRegistration.g.cs
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowReservation.g.cs
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowTour.g.cs
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowAirTicket.baml
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowClients.baml
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowHotelName.baml
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowPayments.baml
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowRegistration.baml
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowReservation.baml
+C:\Users\tim_l\source\repos\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowTour.baml
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\TravelAgency.exe
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\TravelAgency.deps.json
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\TravelAgency.runtimeconfig.json
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\TravelAgency.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\TravelAgency.pdb
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowAirTicket.g.cs
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowClients.g.cs
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowHotelName.g.cs
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowPayments.g.cs
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowRegistration.g.cs
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowReservation.g.cs
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowTour.g.cs
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency_MarkupCompile.cache
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency_MarkupCompile.lref
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowAirTicket.baml
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowClients.baml
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowHotelName.baml
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowPayments.baml
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowRegistration.baml
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowReservation.baml
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\Windows\WindowTour.baml
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.g.resources
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.AssemblyInfo.cs
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAg.A03B1C71.Up2Date
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\refint\TravelAgency.dll
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.pdb
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\TravelAgency.genruntimeconfig.cache
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\ref\TravelAgency.dll

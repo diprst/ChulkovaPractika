@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowreservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowreservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowreservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowreservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\models\\turagenstvoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\models\\turagenstvoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowairticket.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowairticket.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowairticket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowairticket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowhotelname.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowhotelname.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowclients.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowclients.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowclients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowclients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowhotelname.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowhotelname.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowtour.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowtour.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowtour.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowtour.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|c:\\users\\admin\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\travelagency\\travelagency\\travelagency\\windows\\windowpayments.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AF33A1F-30FD-4778-88FC-FF75970B1641}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\windows\\windowpayments.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WindowHotelName.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowHotelName.xaml.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowHotelName.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowHotelName.xaml.cs",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowHotelName.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:42:42.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowReservation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowReservation.xaml.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowReservation.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowReservation.xaml.cs",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowReservation.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAxwD4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:20:31.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowAirTicket.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowAirTicket.xaml",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowAirTicket.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowAirTicket.xaml",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowAirTicket.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T18:04:15.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowReservation.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowReservation.xaml",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowReservation.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowReservation.xaml",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowReservation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T18:06:26.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowAirTicket.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowAirTicket.xaml.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowAirTicket.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowAirTicket.xaml.cs",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowAirTicket.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwDoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:57:24.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurAgenstvooContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Models\\TurAgenstvooContext.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Models\\TurAgenstvooContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Models\\TurAgenstvooContext.cs",
+              "RelativeToolTip": "TravelAgency\\Models\\TurAgenstvooContext.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:59:38.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowRegistration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowRegistration.xaml.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowRegistration.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowRegistration.xaml.cs",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowRegistration.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:08:22.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowRegistration.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowRegistration.xaml",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowRegistration.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowRegistration.xaml",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowRegistration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T18:06:05.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WindowTour.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowTour.xaml.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowTour.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowTour.xaml.cs",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowTour.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:33:18.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TravelAgency\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwDYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:57:12.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WindowClients.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowClients.xaml.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowClients.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowClients.xaml.cs",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowClients.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:52:47.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WindowTour.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowTour.xaml",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowTour.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowTour.xaml",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowTour.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T18:06:47.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WindowPayments.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowPayments.xaml",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowPayments.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowPayments.xaml",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowPayments.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T18:05:41.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WindowHotelName.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowHotelName.xaml",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowHotelName.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowHotelName.xaml",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowHotelName.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T18:05:19.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WindowClients.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowClients.xaml",
+              "RelativeDocumentMoniker": "TravelAgency\\Windows\\WindowClients.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\Windows\\WindowClients.xaml",
+              "RelativeToolTip": "TravelAgency\\Windows\\WindowClients.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T18:04:53.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TravelAgency\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\TravelAgency\\TravelAgency\\TravelAgency\\MainWindow.xaml",
+              "RelativeToolTip": "TravelAgency\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T17:57:15.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

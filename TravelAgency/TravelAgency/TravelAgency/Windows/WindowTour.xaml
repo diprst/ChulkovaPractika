@@ -1,0 +1,63 @@
+﻿<Window x:Class="TravelAgency.Windows.WindowTour"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TravelAgency.Windows"
+        mc:Ignorable="d"
+               Title="Tour" Height="754" Width="400" Background="#D0D0E6">
+    <Grid Margin="10">
+        <Border CornerRadius="10" Background="White" BorderThickness="1" 
+        BorderBrush="Black" Padding="20" Height="703" VerticalAlignment="Bottom" Margin="0,0,0,10">
+            <StackPanel Margin="10,10,10,161">
+                <TextBlock Text="Информация о туре" FontSize="24" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+                <Border BorderThickness="1" BorderBrush="#C0C0C0" CornerRadius="5" Margin="0,5">
+                    <StackPanel Margin="10">
+                        <Label Content="Название тура:" FontWeight="Bold"/>
+                        <TextBox x:Name="txtTitle" Width="205" 
+                        Background="#F5F5F5" BorderBrush="#C0C0C0" 
+                        BorderThickness="1" Padding="5" Text="{Binding Title}"/>
+                    </StackPanel>
+                </Border>
+
+                <Border BorderThickness="1" BorderBrush="#C0C0C0" CornerRadius="5" Margin="0,5">
+                    <StackPanel Margin="10">
+                        <Label Content="Описание тура:" FontWeight="Bold"/>
+                        <TextBox x:Name="txtDescription" Width="205" 
+                        Background="#F5F5F5" BorderBrush="#C0C0C0" 
+                        BorderThickness="1" Padding="5" Text="{Binding Description}"/>
+                    </StackPanel>
+                </Border>
+
+                <Border BorderThickness="1" BorderBrush="#C0C0C0" CornerRadius="5" Margin="0,5">
+                    <StackPanel Margin="10">
+                        <Label Content="Цена тура:" FontWeight="Bold"/>
+                        <TextBox x:Name="txtPrice" Width="205" 
+                        Background="#F5F5F5" BorderBrush="#C0C0C0" 
+                        BorderThickness="1" Padding="5" Text="{Binding Price}"/>
+                    </StackPanel>
+                </Border>
+
+                <Border BorderThickness="1" BorderBrush="#C0C0C0" CornerRadius="5" Margin="0,5">
+                    <StackPanel Margin="10">
+                        <Label Content="Количество мест:" FontWeight="Bold"/>
+                        <TextBox x:Name="txtSeats" Width="205" 
+                        Background="#F5F5F5" BorderBrush="#C0C0C0" 
+                        BorderThickness="1" Padding="5" Text="{Binding AvailablePlaces}"/>
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+        </Border>
+        <Button Name="btnSave" Content="Сохранить" 
+        HorizontalAlignment="Left" Margin="36,458,0,189" 
+        Click="btnSave_Click" Background="#4CAF50"
+        Foreground="White" FontWeight="Bold" Height="40" Width="140"/>
+        <Button Name="btnBack" Content="Назад" 
+        HorizontalAlignment="Left" Margin="199,462,0,192" 
+        Click="btnBack_Click" Background="#4CAF50"
+        Foreground="White" FontWeight="Bold" Height="40" Width="140"/>
+
+    </Grid>
+</Window>

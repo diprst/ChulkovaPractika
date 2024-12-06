@@ -1,0 +1,20 @@
+﻿TravelAgency
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\obj\Debug\net9.0-windows\
+TravelAgency
+none
+false
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP
+C:\Users\admin\Desktop\Новая папка\TravelAgency\TravelAgency\TravelAgency\App.xaml
+8706146304
+
+20-1020631085
+230325931298
+MainWindow.xaml;Windows\WindowAirTicket.xaml;Windows\WindowClients.xaml;Windows\WindowHotelName.xaml;Windows\WindowPayments.xaml;Windows\WindowRegistration.xaml;Windows\WindowReservation.xaml;Windows\WindowTour.xaml;
+
+True
+
